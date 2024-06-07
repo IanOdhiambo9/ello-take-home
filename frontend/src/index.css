@@ -1,0 +1,57 @@
+:root {
+  font-family: "Mulish", sans-serif;
+  line-height: 1.5;
+  font-style: normal;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mulish-200 {
+  font-optical-sizing: auto;
+  font-weight: 200;
+}
+
+.mulish-300 {
+  font-optical-sizing: auto;
+  font-weight: 300;
+}
+
+.mulish-400 {
+  font-optical-sizing: auto;
+  font-weight: 400;
+}
+
+.mulish-500 {
+  font-optical-sizing: auto;
+  font-weight: 500;
+}
+
+.mulish-700 {
+  font-optical-sizing: auto;
+  font-weight: 700;
+}
+
+.primary-color {
+  color: #5ACCCC;
+}
+
+.secondary-color {
+  color: #FAAD00;
+}
+
+.primary-bg-color {
+  background-color: #5ACCCC;
+}
+
+.secondary-bg-color {
+  background-color: #FAAD00;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
